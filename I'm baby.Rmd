@@ -1,0 +1,16 @@
+---
+title: "I'm baby"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Paula is my bestie but she has another man.
+
+```{r}
+9+10
+```
+
+
